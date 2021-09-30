@@ -1,3 +1,4 @@
 root: ./
 structure:
-  main: main.md
+  readme: introduction.md
+  summary: summary.md
